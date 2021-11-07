@@ -1,0 +1,15 @@
+{
+  "solcollect": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-web-solcollect-182640-authRole",
+      "UnauthRoleArn": "arn:aws:iam::761722907844:role/amplify-web-solcollect-182640-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::761722907844:role/amplify-web-solcollect-182640-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-web-solcollect-182640-deployment",
+      "UnauthRoleName": "amplify-web-solcollect-182640-unauthRole",
+      "StackName": "amplify-web-solcollect-182640",
+      "StackId": "arn:aws:cloudformation:us-east-2:761722907844:stack/amplify-web-solcollect-182640/01fba130-3f59-11ec-9c1f-066d34348cee",
+      "AmplifyAppId": "d1htlulx5ewemu"
+    }
+  }
+}
